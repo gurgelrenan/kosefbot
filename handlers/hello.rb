@@ -4,7 +4,7 @@ module Lita
       route(/oi/, :hello, command: true, help: { hello: "responde uma mensagem motivacional." })
 
       MESSAGES = [
-        'Bom dia galera!',
+        'Bom dia galera!!',
         'Goodie Goodie Morning pessoal!',
         'Que esse dia seja produtivo e delicioso! Bom dia amigos!',
         'Bom dia... e alegria... vamos sorrir e cantar! Dia galera!',
