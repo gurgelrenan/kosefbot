@@ -1,6 +1,6 @@
 require 'dotenv/load'
-
 require './handlers/hello.rb'
+require './handlers/uber.rb'
 
 Lita.configure do |config|
   config.robot.name = "Lita"
